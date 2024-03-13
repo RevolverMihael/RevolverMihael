@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Not funny 😜**
 
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/JYZWs0UkzK2WKBoCUM/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/4tG.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
