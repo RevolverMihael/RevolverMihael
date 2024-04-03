@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **Not funny 😜**
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ3YjQ4dm43NGc3aWpzZ2l6Ym10YWhhM2lxcW1uYmt6NjllNm5jdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bWigg4X8dl8Rpiv7bm/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU0cnRtZDAweW5uM3Yyb2p3M3VqM3V5bDE3anVrdHdtY2k0bDZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
