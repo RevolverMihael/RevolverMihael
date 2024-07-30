@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=revolvermihael" alt="revolvermihael" /></a> </p>
 
-- 🌱 I’m currently learning **SQL and C#**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **mihaelzulj@gmail.com**
 
-- ⚡ Fun fact **Not funny 😜**
+- ⚡ Fun fact **I am serious**
 
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXU0cnRtZDAweW5uM3Yyb2p3M3VqM3V5bDE3anVrdHdtY2k0bDZxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif">
 
